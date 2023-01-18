@@ -48,7 +48,6 @@
 ## 鸣谢
 
 - [Fitzgerald Yu](https://github.com/Fitzgerald-Porthmouth-Koenigsegg) 主持制作并发布「遍黑体」字体文件
-- [阿巴酱](https://github.com/Petit-Abba) 提供 Magisk 模块模板
 - [lxgw](https://github.com/lxgw) 🔽
 
 > - **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
@@ -57,6 +56,15 @@
 > - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 > - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 > - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+
+## 引用
+
+|/|版本|
+|-|-|
+|[MMT-Extended](https://github.com/Zackptg5/MMT-Extended)|v2.0|
+|[Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)|V0.7.5720|
+|[7-zip](https://7-zip.org/)|v22.01|
+|[wget](https://eternallybored.org/misc/wget/)|v1.21.3|
 
 ## 模块作者
 
