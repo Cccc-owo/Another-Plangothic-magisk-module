@@ -44,5 +44,5 @@ jobs:
         with:
           files: |
             Another-Plangothic-magisk-module.zip
-          body_path: CHANGELOG.md
+          body_path: changelog.md
           #discussion_category_name: "公告"
