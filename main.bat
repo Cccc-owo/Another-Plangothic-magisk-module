@@ -25,7 +25,6 @@ rmdir /S /Q output\MMT-Extended-master
 xcopy .\Plangothic-*.ttf output\system\fonts\ /Y /Q
 del /Q output\.gitattributes
 del /Q output\.gitignore
-del /Q output\update.json
 del /S /Q placeholder
 rmdir output\zygisk
 ECHO.
