@@ -1,8 +1,8 @@
 @ECHO OFF
 ::==========setting variable
 set template=https://github.com/Zackptg5/MMT-Extended/archive/refs/heads/master.zip
-set fontp1=https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/download/V1.8.5746/PlangothicP1-Regular.fallback.ttf
-set fontp2=https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/download/V1.8.5746/PlangothicP2-Regular.ttf
+set fontp1=https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/tag/V1.8.5752/PlangothicP1-Regular.fallback.ttf
+set fontp2=https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/tag/V1.8.5752/PlangothicP2-Regular.ttf
 ::==========
 
 ::==========checking
