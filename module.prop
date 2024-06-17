@@ -1,8 +1,8 @@
 # id 只能填 字母 数字 半角符号
-id=aotherPlangothic
+id=anotherPlangothic
 name=遍黑体字库扩充模块
 version=V1.8.5760
-versionCode=11
+versionCode=12
 author=Cccc_
 description=使用「遍黑体」扩充字库。GitHub 项目地址：https://github.com/Cccc-owo/Another-Plangothic-magisk-module ，使用说明请见 README.md 文件。遍黑体项目地址：https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic 。
 updateJson=https://github.com/Cccc-owo/Another-Plangothic-magisk-module/raw/main/update.json
