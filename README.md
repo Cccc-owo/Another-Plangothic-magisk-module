@@ -62,8 +62,8 @@
 |/|版本|
 |-|-|
 |[MMT-Extended](https://github.com/Zackptg5/MMT-Extended)|latest|
-|[Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)|V1.8.5760|
-|[7-zip](https://7-zip.org/)|v23.01|
+|[Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)|V1.8.5764|
+|[7-zip](https://7-zip.org/)|v24.05|
 |[wget](https://eternallybored.org/misc/wget/)|v1.21.3|
 
 ## 模块作者
